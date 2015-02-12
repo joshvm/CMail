@@ -1,0 +1,8 @@
+<handlers>
+    <handler>cats.mail.server.handler.DeleteMailHandler</handler>
+    <handler>cats.mail.server.handler.LoginHandler</handler>
+    <handler>cats.mail.server.handler.RegisterHandler</handler>
+    <handler>cats.mail.server.handler.SendMailHandler</handler>
+    <handler>cats.mail.server.handler.ReadMailHandler</handler>
+    <handler>cats.mail.server.handler.LogoutHandler</handler>
+</handlers>

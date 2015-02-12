@@ -1,0 +1,5 @@
+<handlers>
+    <handler>cats.mail.client.handler.InitHandler</handler>
+    <handler>cats.mail.client.handler.MailHandler</handler>
+    <handler>cats.mail.client.handler.PopupHandler</handler>
+</handlers>

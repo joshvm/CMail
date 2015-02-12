@@ -1,0 +1,5 @@
+<formers>
+    <former>cats.mail.client.former.AuthFormer</former>
+    <former>cats.mail.client.former.RDMailFormer</former>
+    <former>cats.mail.client.former.SendMailFormer</former>
+</formers>

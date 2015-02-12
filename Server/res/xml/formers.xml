@@ -1,0 +1,5 @@
+<formers>
+    <former>cats.mail.server.former.MailFormer</former>
+    <former>cats.mail.server.former.PopupMsgFormer</former>
+    <former>cats.mail.server.former.AccountFormer</former>
+</formers>
